@@ -1,0 +1,14 @@
+{
+  "pcvr": {
+    "version": "1.0.0",
+    "downloadUrl": "https://drive.google.com/file/d/1obSVFjEz3lD2iXjglUaKGATQDs-gkezp/view?usp=sharing"
+  },
+  "standalone": {
+    "version": "1.0.0",
+    "downloadUrl": "https://www.oculus.com/experiences/9890260321097876/release-channels/1416509935983431/?token=phxAPKYW",
+  },
+  "serverStatus": {
+    "online": true,
+    "message": ""
+  }
+}
